@@ -1,5 +1,4 @@
 # Multi-User-Todo-List-Application
-# Multi-User Todo List Application
 
 A Django-based task management web application that allows multiple users to securely manage their personal tasks. Users can register and log in to their accounts, create new tasks, update existing tasks, delete completed or unwanted tasks, and track tasks based on their status.
 
